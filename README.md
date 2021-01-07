@@ -17,3 +17,13 @@ Monte Carlo algorithm for performing inference in models with multivariate Gauss
 
 These properties make our method ideal for use while model building, removing the need to spend time deriving and tuning updates for more complex algorithms.
 
+Project 3: 
+
+The paper critiqued was “Lung cancer incidence decreases with elevation: evidence for oxygen as an inhaled carcinogen”, Simeonov & Himmelstein, PeerJ 2015
+https://peerj.com/articles/705/
+
+The statistical analyses performed in the paper was critiqued from the point of view of multiple testing and replicability. The validity of the conclusions was also assessed from a statistician’s point of view
+
+Some ideas are: thinking about possible confounding variables, whether the data collected is representative of the claim being made, etc.
+
+
