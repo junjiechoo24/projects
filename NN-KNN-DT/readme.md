@@ -1,4 +1,4 @@
-# Project 1: [Comparing Neural Networks with K-Nearest Neighbours and Decision Tree Models](https://github.com/junjiechoo24/projects/tree/main/NN-KNN-DT)
+# Comparing Neural Networks with K-Nearest Neighbours and Decision Tree Models
 
 ![Figure](https://i.imgur.com/xoY10Zc.png)
 
